@@ -21,6 +21,10 @@
     <module>cloud-feignconsumer-order80</module>
     <module>cloud-provider-hystrix-payment8001</module>
     <module>cloud-consumer-feign-hystrix-order80</module>
+      <module>cloud-consumer-hystrix-dashborad9001</module>
+      <module>cloud-gateway-gateway9527</module>
+      <module>mysqltest</module>
+      <module>cloud-config-git3344</module>
   </modules>
   <packaging>pom</packaging>
 
